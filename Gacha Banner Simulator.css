@@ -63,7 +63,7 @@ header {
 }
 
 .weapon-banner img {
-    /* position: absolute; */ width: 20px; height: 70px; top: -10px; /* object-fit: none; */ /* object-position: -5px -20px; */
+   width: 20px; height: 70px; top: -10px; 
 }
 
 .middle {
@@ -79,7 +79,7 @@ header {
  position: absolute; background-color: var(--theme); color: white; width: 200px; height: auto; padding: 5px 8px; font-size: 20px; font-weight: bolder; border-radius: 25px 5px 25px 25px; top: -4px; left: -6px; z-index: 5; 
 }
  .banner-name {
- position: absolute; display: flex; font-size: 35px; width: 250px; height: auto; flex-direction: column; top: 25px; left: 30px; color: dimgray; z-index: 3; -webkit-text-stroke: 0.2px; -webkit-text-stroke-color: white; 
+ position: absolute; display: flex; font-size: 25px; width: 250px; height: auto; flex-direction: column; top: 25px; left: 30px; color: dimgray; z-index: 3; -webkit-text-stroke: 0.2px; -webkit-text-stroke-color: white; 
 }
  .banner-name span {
  color: var(--theme); 
@@ -174,7 +174,7 @@ header {
 }
 
 .pulls button {
-    height: 40px; width: 150px; border-radius: 25px; margin: 10px; cursor: pointer; background-image: url(.//Images//button-bg.webp); /* object-fit: contain; */ background-size: contain; outline: gold; font-weight: bold;
+    height: 40px; width: 150px; border-radius: 25px; margin: 10px; cursor: pointer; background-image: url(.//Images//button-bg.webp); background-size: contain; outline: gold; font-weight: bold;
 }
 
 .translate:hover {
