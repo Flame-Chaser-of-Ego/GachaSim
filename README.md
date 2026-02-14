@@ -8,6 +8,8 @@ A web-based simulator for the "Void Star's Advent" banner, featuring Skirk. Buil
 ## ⚖️ License & Terms of Use
 **Copyright (c) 2026 [Flame-Chaser-of-Ego]**
 
+## Live now at: https://flame-chaser-of-ego.github.io/GachaSim/index.html
+
 ### 🚫 All Rights Reserved
 This project is provided for **viewing and demonstration purposes only**. 
 
