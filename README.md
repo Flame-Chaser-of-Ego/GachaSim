@@ -1,0 +1,3 @@
+# GachaSim
+
+Gacha Simulator
